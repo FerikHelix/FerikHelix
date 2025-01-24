@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ferik Bagas Wardana!  
 
-🌍 From **Indonesia | Tangerang, Kutabumi**  
+🌍 **Location**: Indonesia | Tangerang, Kutabumi  
 💼 Currently working at **Innotia Power Nusantara** as a **Flutter App Developer**  
 
 ---
@@ -14,7 +14,7 @@
 
 ### 🚀 Tech I Use  
 
-#### Work 🛠️  
+#### 💼 Work 🛠️  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" />
@@ -24,28 +24,41 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" />
 </p>
 
-#### Hobby ❤️  
+#### 🎨 Hobby ❤️  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" alt="Zig" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/D_Programming_Language_logo.svg/186px-D_Programming_Language_logo.svg.png" alt="D" width="50"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg" alt="D" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" alt="Nim" width="50" height="50" />
 </p>
-
 
 ---
 
 ### 🌟 About Me  
-Hi, I’m **Ferik**, a passionate developer with a love for learning and experimenting with tech.  
+Hi, I’m **Ferik**, a passionate developer from Indonesia who loves exploring new tech and pushing the boundaries of what’s possible.  
 
-- 🌱 I’m currently exploring **graphics programming** to better understand rendering pipelines and shaders.  
-- ⚙️ On the side, I enjoy **scripting automation** to make repetitive tasks vanish like magic!  
-- 🎮 When I’m not coding, you’ll probably find me tinkering with hobby languages or gaming.  
-- 🛠️ My ultimate goal is to build tools and apps that simplify lives and bring value to others.  
+Lately, I’ve been diving into **graphics programming**, experimenting with shaders and rendering pipelines. I also have a knack for **scripting automation**, turning repetitive tasks into efficient workflows.  
+
+In my free time, I enjoy tinkering with hobby languages like Zig, D, and Nim, or just relaxing with some gaming. Ultimately, I strive to create tools and apps that simplify lives and add value to the world.  
+
+---
+
+### 🔮 What's Next?  
+- 🌌 Delve deeper into GPU programming  
+- 🛠️ Explore CI/CD tools for smoother app development  
+- 🤝 Collaborate on open-source projects  
+
+---
+
+### 📊 GitHub Stats  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=FerikHelix&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerikHelix&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📬 Let's Connect!  
-- 📧 **Email**: ferikbagas08@gmail.com
+- 📧 **Email**: ferikbagas08@gmail.com  
 - 💼 **LinkedIn**: [Coming Soon!]  
 
 Thanks for stopping by! Let’s create something amazing together! 🚀✨  
