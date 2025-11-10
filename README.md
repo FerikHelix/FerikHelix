@@ -26,8 +26,6 @@
 
 #### 🎨 Hobby ❤️  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" alt="Zig" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg" alt="D" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" alt="Nim" width="50" height="50" />
 </p>
 
