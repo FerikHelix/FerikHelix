@@ -7,7 +7,7 @@
 
 ### 💻 My Setup  
 🖥️ **OS**: Dual Boot  
-- 🐧 Xubuntu  
+- 🐧 Fedora XFCE  
 - 🗔 Windows 10  
 
 ---
