@@ -19,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" />
 </p>
@@ -32,16 +31,14 @@
 ---
 
 ### 🌟 About Me  
-Hi, I’m **Ferik**, a passionate developer from Indonesia who loves exploring new tech and pushing the boundaries of what’s possible.  
+Hi, I’m **Ferik**, a passionate developer from Indonesia who loves building clean and intuitive **mobile applications**. I enjoy exploring new frameworks, polishing UI/UX, and experimenting with different architectural patterns to make apps fast, scalable, and enjoyable to use.
 
-Lately, I’ve been diving into **graphics programming**, experimenting with shaders and rendering pipelines. I also have a knack for **scripting automation**, turning repetitive tasks into efficient workflows.  
-
-In my free time, I enjoy tinkering with hobby languages like Zig, D, and Nim, or just relaxing with some gaming. Ultimately, I strive to create tools and apps that simplify lives and add value to the world.  
+Lately, I’ve also been learning a bit of **web development**, expanding my skill set so I can build across platforms more seamlessly.
 
 ---
 
 ### 🔮 What's Next?  
-- 🌌 Delve deeper into GPU programming  
+- 🌐 Learn more about modern web development  
 - 🛠️ Explore CI/CD tools for smoother app development  
 - 🤝 Collaborate on open-source projects  
 
