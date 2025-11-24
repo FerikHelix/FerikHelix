@@ -53,7 +53,7 @@ Lately, I’ve also been learning a bit of **web development**, expanding my ski
 ---
 
 ### 📬 Let's Connect!  
-- 📧 **Email**: ferikbagas08@gmail.com  
+- 📧 **Email**: [Coming Soon!]  
 - 💼 **LinkedIn**: [Coming Soon!]  
 
 Thanks for stopping by! Let’s create something amazing together! 🚀✨  
