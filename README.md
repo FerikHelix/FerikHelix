@@ -1,59 +1,93 @@
-# 👋 Hello, I'm Ferik Bagas Wardana!  
+# 👋 Hi, I'm Ferik Bagas Wardana
 
-🌍 **Location**: Indonesia | Tangerang, Kutabumi  
-💼 Currently working at **Innotia Power Nusantara** as a **Flutter App Developer**  
+**Flutter Developer · Mobile App Developer · Learning Web Development**
 
----
-
-### 💻 My Setup  
-🖥️ **OS**: Dual Boot  
-- 🐧 Fedora XFCE  
-- 🗔 Windows 10  
+📍 Tangerang, Indonesia  
+💼 Flutter App Developer at **Innotia Power Nusantara**
 
 ---
 
-### 🚀 Tech I Use  
+## 👨‍💻 About Me
 
-#### 💼 Work 🛠️  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" />
-</p>
-
-#### 🎨 Hobby ❤️  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" alt="Nim" width="50" height="50" />
-</p>
+- 📱 Building cross-platform applications with **Flutter & Dart**
+- 🌐 Currently exploring **modern web development**
+- 🧠 Interested in clean architecture, UI/UX, and scalable application design
+- ⚙️ Learning more about **CI/CD** and development workflows
+- 🐍 Experimenting with **Nim** for fun
+- 🐧 Daily driving both **Fedora XFCE** and **Windows**
 
 ---
 
-### 🌟 About Me  
-Hi, I’m **Ferik**, a passionate developer from Indonesia who loves building clean and intuitive **mobile applications**. I enjoy exploring new frameworks, polishing UI/UX, and experimenting with different architectural patterns to make apps fast, scalable, and enjoyable to use.
+## 🛠️ Tech Stack
 
-Lately, I’ve also been learning a bit of **web development**, expanding my skill set so I can build across platforms more seamlessly.
+### 💼 Main Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+### ❤️ Hobby & Exploring
+
+![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+### 🖥️ Environment
+
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🔮 What's Next?  
-- 🌐 Learn more about modern web development  
-- 🛠️ Explore CI/CD tools for smoother app development  
-- 🤝 Collaborate on open-source projects  
+## 🚀 What I'm Working On
+
+I'm currently focused on improving my skills beyond mobile development, especially in:
+
+- 🌐 Modern web development
+- 🏗️ Application architecture
+- 🔥 Firebase & backend integration
+- 🐳 Docker and development environments
+- ⚙️ CI/CD workflows
+- 🤝 Open-source collaboration
 
 ---
 
-### 📊 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=FerikHelix&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerikHelix&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats
+
+![Ferik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FerikHelix&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FerikHelix&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 📬 Let's Connect!  
-- 📧 **Email**: [Coming Soon!]  
-- 💼 **LinkedIn**: [Coming Soon!]  
+## 🎯 Current Goals
 
-Thanks for stopping by! Let’s create something amazing together! 🚀✨  
+```text
+📱 Mobile Development  ████████████████████  Flutter
+🌐 Web Development     ███████████░░░░░░░░░  Learning
+⚙️ DevOps / CI/CD      ███████░░░░░░░░░░░░░  Exploring
+🐍 Nim                 ████████░░░░░░░░░░░░  Hobby
+```
+
+---
+
+## 📫 Connect With Me
+
+💼 **LinkedIn:** Coming Soon  
+📧 **Email:** Coming Soon  
+🐙 **GitHub:** @FerikHelix
+
+---
+
+<div align="center">
+
+### 💻 Build. Learn. Experiment. Repeat.
+
+Thanks for visiting my profile! 🚀
+
+</div>
